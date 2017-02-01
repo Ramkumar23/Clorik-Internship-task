@@ -10,7 +10,7 @@
 		// reading datas using for each loop         
 														$.each(data.images, function(i,f) { 
 		// selecting class images using selector to insert images
-														$("#images").append("<li><img src='"+f.url+"' style='width:120px; height:120px;' class='img-responsive img-rounded' alt='Some description'/> <span><strong>"+ $ii++ +"</strong></span></li>");
+														$("#images").append("<li><img src='"+f.url+"' style='width:120px; height:120px;' class='img-responsive img-rounded' alt='"+f.caption+"'/> <span><strong>"+ $ii++ +"</strong></span></li>");
 		 });
 
              });
