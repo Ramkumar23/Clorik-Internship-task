@@ -6,3 +6,4 @@ Create a webpage that displays a gallery of images, given a JSON array containin
  <li>--> Just download the code and files.</li>
   <li>-->Deploy it in Server (<strong> like <em>Tomacat,xampp..etc <em> or  goto Google Chrome then install extension named <em>"Web Server for Chrome"<em></strong>)</li>
   <li>--> Load index.html</li>
+</ul>
