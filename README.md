@@ -1,5 +1,5 @@
 # Clorik-Internship-task
-Create a webpage that displays a gallery of images, given a JSON array containing a list of image URLs.
+<h1> Create a webpage that displays a gallery of images, given a JSON array containing a list of image URLs and reordering the gallery by Dragging and Droping.</h1>
 
 <b>Instruction to run this code</b>
  <ul>
